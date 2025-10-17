@@ -15,7 +15,9 @@ We have uploaded a portion of the dataset, which can be downloaded [here](https:
 
 The remaining data will be made available soon as we continue to organize and release the full dataset.
 
-![CKM Dataset Overview](assets/overview.png)
+<p align="center">
+  <img src="assets/overview.png" alt="CKM Dataset Overview" style="width:70%;">
+</p>
 
 ## Acknowledgement
 Please acknowledge the following paper if the dataset is useful for your research.
